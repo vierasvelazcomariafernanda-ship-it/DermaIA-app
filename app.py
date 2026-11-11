@@ -98,7 +98,7 @@ if "historial" not in st.session_state:
     st.session_state.historial = []
 
 # Títulos principales (Sin el 3.0)
-st.markdown('<p class="main-title">DermaAI 🌿 Cuidado y Triaje Cutáneo</p>', unsafe_allow_html=True)
+st.markdown('<p class="main-title"> 🧬DermaAICuidado y Triaje Cutáneo🧬</p>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Universidad Nacional de las Ciencias (UNC) • Estética, Prevención y Salud</p>', unsafe_allow_html=True)
 
 # Barra lateral de control y navegación
