@@ -29,7 +29,7 @@ st.markdown("""
     .stApp {
         .stApp {
         background: linear-gradient(rgba(253, 251, 247, 0.90), rgba(244, 242, 236, 0.94)), 
-                    url('fondo.jpg');
+                    url('fondo.jpg.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
