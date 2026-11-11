@@ -12,7 +12,7 @@ import datetime
 # 1. Configuración de la Página
 # ------------------------------------------------------------------------------
 st.set_page_config(
-    page_title="DermaAI - Triaje Cutáneo e IA",
+    page_title="DermaAI- Triaje Cutáneo e IA",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -192,7 +192,7 @@ with col_right:
         
         c_img1, c_img2, c_img3 = st.columns([1, 2, 1])
         with c_img2:
-            st.image(image, caption="Fotografía analizada", use_column_width=True)
+            st.image(image, caption="Fotografía analizada")
             
         st.markdown("---")
         
