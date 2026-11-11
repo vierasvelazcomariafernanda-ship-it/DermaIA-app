@@ -27,7 +27,13 @@ st.markdown("""
 
     /* Fondo general estilo crema/neutro muy limpio */
     .stApp {
-        background: linear-gradient(135deg, #fdfbf7 0%, #f4f2ec 100%);
+        .stApp {
+        background: linear-gradient(rgba(253, 251, 247, 0.90), rgba(244, 242, 236, 0.94)), 
+                    url('https://pelzdermaclinic.com/wp-content/uploads/2026/05/PELZ-Derma-Clinic-IA-y-Dermatologia-inteligencia-artificial-cancer-de-piel-1287x850.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
     }
 
     .main-title {
