@@ -29,7 +29,7 @@ st.markdown("""
     .stApp {
         .stApp {
         background: linear-gradient(rgba(253, 251, 247, 0.90), rgba(244, 242, 236, 0.94)), 
-                    url('https://pelzdermaclinic.com/wp-content/uploads/2026/05/PELZ-Derma-Clinic-IA-y-Dermatologia-inteligencia-artificial-cancer-de-piel-1287x850.jpg');
+                    url('fondo.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
