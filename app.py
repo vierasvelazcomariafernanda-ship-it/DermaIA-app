@@ -12,7 +12,7 @@ from datetime import datetime
 # Configuración inicial de la página
 st.set_page_config(
     page_title="DermaAI - Skincare & Triaje",
-    page_icon="🌿",
+    page_icon="🧬",
     layout="centered"
 )
 
