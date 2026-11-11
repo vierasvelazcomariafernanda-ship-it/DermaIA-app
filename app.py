@@ -254,7 +254,7 @@ if menu_lateral == "Módulo de Triaje Activo":
                 <div class="card-amarillo">
                     <strong>PACIENTE:</strong> {paciente_txt} | <strong>ESTADO:</strong> {ubicacion_paciente}<br>
                     <strong>DIAGNÓSTICO PRELIMINAR:</strong> {patologia} ({certeza}% de certeza)<br>
-                    <strong>NIVEL DE ALERTA: 🟡 AMARILLO (Moderado)</strong><br><br>
+                    <strong>NIVEL DE ALERTA: 🔴 AMARILLO (Moderado)</strong><br><br>
                     <em>Recomendación Clínica:</em> Evaluación por médico general en ambulatorio de la red primaria.<br>
                     <strong>Centro de Atención Recomendado:</strong> {centro_sugerido}
                 </div>
@@ -264,7 +264,7 @@ if menu_lateral == "Módulo de Triaje Activo":
                 <div class="card-verde">
                     <strong>PACIENTE:</strong> {paciente_txt} | <strong>ESTADO:</strong> {ubicacion_paciente}<br>
                     <strong>DIAGNÓSTICO PRELIMINAR:</strong> {patologia} ({certeza}% de certeza)<br>
-                    <strong>NIVEL DE ALERTA: 🟢 VERDE (Bajo Riesgo)</strong><br><br>
+                    <strong>NIVEL DE ALERTA: 🔴 VERDE (Bajo Riesgo)</strong><br><br>
                     <em>Recomendación Clínica:</em> Tejido sin alteraciones críticas. Control básico y observación.<br>
                     <strong>Centro de Atención Recomendado:</strong> {centro_sugerido}
                 </div>
