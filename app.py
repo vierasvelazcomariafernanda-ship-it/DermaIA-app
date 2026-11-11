@@ -1,7 +1,7 @@
 # =====================================================================
 #  DermaAI (Edición Skincare & Clinical UI)
 # Universidad Nacional de las Ciencias (UNC)
-# Autora: María Vieras y Mariana Ramos 
+# Autora: María Fernanda Vieras Velazco
 # =====================================================================
 
 import streamlit as st
@@ -27,13 +27,7 @@ st.markdown("""
 
     /* Fondo general estilo crema/neutro muy limpio */
     .stApp {
-        .stApp {
-        background: linear-gradient(rgba(253, 251, 247, 0.90), rgba(244, 242, 236, 0.94)), 
-                    url('fondo.jpg.jpg');
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-    }
+        background: linear-gradient(135deg, #fdfbf7 0%, #f4f2ec 100%);
     }
 
     .main-title {
