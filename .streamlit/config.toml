@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#3F6B52"
+backgroundColor = "#F7F1EA"
+secondaryBackgroundColor = "#EFE6DA"
+textColor = "#33403A"
+font = "Nunito Sans:https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap"
+headingFont = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&display=swap"
+baseRadius = "14px"
+borderColor = "#E8DCCD"
+showWidgetBorder = true
+
+[client]
+toolbarMode = "minimal"

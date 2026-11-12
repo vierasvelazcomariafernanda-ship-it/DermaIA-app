@@ -1,4 +1,5 @@
-﻿streamlit
+﻿streamlit>=1.46
 numpy
 pillow
 tensorflow
+fpdf2>=2.7.6
